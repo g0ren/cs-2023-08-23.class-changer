@@ -1,0 +1,15 @@
+C:\Users\aelita\RiderProjects\CW.14.08\CW.14.08\obj\Debug\net7.0\CW.14.08.csproj.AssemblyReference.cache
+C:\Users\aelita\RiderProjects\CW.14.08\CW.14.08\obj\Debug\net7.0\CW.14.08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aelita\RiderProjects\CW.14.08\CW.14.08\obj\Debug\net7.0\CW.14.08.AssemblyInfoInputs.cache
+C:\Users\aelita\RiderProjects\CW.14.08\CW.14.08\obj\Debug\net7.0\CW.14.08.AssemblyInfo.cs
+C:\Users\aelita\RiderProjects\CW.14.08\CW.14.08\obj\Debug\net7.0\CW.14.08.csproj.CoreCompileInputs.cache
+C:\Users\aelita\RiderProjects\CW.14.08\CW.14.08\bin\Debug\net7.0\CW.14.08.exe
+C:\Users\aelita\RiderProjects\CW.14.08\CW.14.08\bin\Debug\net7.0\CW.14.08.deps.json
+C:\Users\aelita\RiderProjects\CW.14.08\CW.14.08\bin\Debug\net7.0\CW.14.08.runtimeconfig.json
+C:\Users\aelita\RiderProjects\CW.14.08\CW.14.08\bin\Debug\net7.0\CW.14.08.dll
+C:\Users\aelita\RiderProjects\CW.14.08\CW.14.08\bin\Debug\net7.0\CW.14.08.pdb
+C:\Users\aelita\RiderProjects\CW.14.08\CW.14.08\obj\Debug\net7.0\CW.14.08.dll
+C:\Users\aelita\RiderProjects\CW.14.08\CW.14.08\obj\Debug\net7.0\refint\CW.14.08.dll
+C:\Users\aelita\RiderProjects\CW.14.08\CW.14.08\obj\Debug\net7.0\CW.14.08.pdb
+C:\Users\aelita\RiderProjects\CW.14.08\CW.14.08\obj\Debug\net7.0\CW.14.08.genruntimeconfig.cache
+C:\Users\aelita\RiderProjects\CW.14.08\CW.14.08\obj\Debug\net7.0\ref\CW.14.08.dll
